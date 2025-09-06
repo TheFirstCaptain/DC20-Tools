@@ -6,7 +6,7 @@ I've been playing with the Fantasy stat block plug in and created a simple statb
 - DC20 Adversary.json: The file to import into your Obsidian vault
 - DC20 Adversary Template.md: My template to use for creating new Obsidian page.
 - krasis.yaml: An example of the statblock using an animal from The Hunted free one-shot
-- Krasis.png: How the statblock looks when rednderd in Obsidian
+- Krasis.png: How the statblock looks when renderd in Obsidian
 
 
 ![Krasis](Krasis.png)
